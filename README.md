@@ -2,7 +2,8 @@
 
 A custom client for The Puzzle Cell
 
-## Exploit Categories 
+## Exploit Categories
+
 | Exploits | Misc | Movement | Render | Other |
 |---|---|---|---|---| 
 |Basic exploits that I've scanned and exploited | Mostly things for fun, not related to hacks or anything | Movement exploits | Rendering exploits | Exploits that don't fit in the other categories |
